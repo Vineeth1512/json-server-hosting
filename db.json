@@ -1,0 +1,40 @@
+{
+    "products": [
+      {
+        "id": 3,
+        "name": "fridge",
+        "price": 10000,
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "name": "locker",
+        "price": 2500,
+        "quantity": 3
+      },
+      {
+        "id": 5,
+        "name": "nanduuuu",
+        "price": "20000",
+        "quantity": "1"
+      },
+      {
+        "id": 6,
+        "name": "cooler",
+        "price": 5000,
+        "quantity": 2
+      },
+      {
+        "id": 7,
+        "name": "table",
+        "price": 3000,
+        "quantity": 5
+      },
+      {
+        "id": 732,
+        "name": "table Format",
+        "price": 3000,
+        "quantity": 5
+      }
+    ]
+  }
